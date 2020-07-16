@@ -38,7 +38,7 @@
            <div class="contenedor">
             <div class="caja_encabezado visible">
             <h1 class="titulo">orogold</h1>
-            <p class="subtitulo">Cuando belleza y glamour <span>van de la mano</span></p>
+            <p class="subtitulo">Cuando belleza y glamour es parte tuya ven y conocenos <span>van de la mano</span></p>
             </div>
             <div class="caja_encabezado">
              <form class="contenedor-form" id="formulario">
