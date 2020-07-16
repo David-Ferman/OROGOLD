@@ -37,7 +37,7 @@
            <div class="datos-encabezado">
            <div class="contenedor">
             <div class="caja_encabezado visible">
-            <h1 class="titulo">orogold</h1>
+            <h1 class="titulo">orogold ferman</h1>
             <p class="subtitulo">Cuando belleza y glamour es parte tuya ven y conocenos <span>van de la mano</span></p>
             </div>
             <div class="caja_encabezado">
